@@ -1,7 +1,7 @@
 
   # Shipment Data Analysis Tool
 
-  This is a code bundle for Shipment Data Analysis Tool. The original project is available at https://www.figma.com/design/CvW7Pe5XSh0gMcizKPl6Pe/Shipment-Data-Analysis-Tool.
+  This is a code bundle for Shipment Data Analysis Tool. The project is available at https://logistic-analysis-prototype.vercel.app/
 
   ## Running the code
 
